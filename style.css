@@ -1,0 +1,46 @@
+body , html {
+	width: 100%;
+	height: 100%;
+	background: url(header.jpg) no-repeat center center fixed; 
+	 -webkit-background-size: cover;
+	 -moz-background-size: cover;
+	 -o-background-size: cover;
+	 background-size: cover;
+
+}
+
+h1 {
+	font-size: 3rem;
+	color: #E2DBDB ;
+	
+}
+
+
+
+.buffer {
+  height: 70px;
+  margin: 60px;
+}
+
+
+.btn {
+	font-weight: 700;
+	border-radius: 300px;
+	text-transform: uppercase;
+}
+
+.btn-primary {
+	background-color: #F05F44;
+	border-color: #F05F44;
+}
+
+.btn-primary:hover {
+	background-color: #ee4b08;
+	border-color: #ee4b08;
+	border-width: 7px;
+}
+
+.btn-xl {
+	padding: 1rem 2rem;
+
+}
